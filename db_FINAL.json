@@ -1,0 +1,9 @@
+{
+  "posts": [
+    { "id": 1, "title": "Example Json Server", "author": "Gianni B" }
+  ],
+  "comments": [
+    { "id": 1, "body": "Hello world!", "postId": 1 }
+  ],
+  "profile": { "name": "Gianni" }
+}
